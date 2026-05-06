@@ -42,7 +42,7 @@ Estudo Análise e Desenvolvimento de Sistemas na Anhembi Morumbi e construo minh
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cassia-alves-f">🔗 LinkedIn</www.linkedin.com/in/cássia-alves-f> · 📍 Mauá, SP — Brasil
+  <a href="https://www.linkedin.com/in/cassia-alves-f">🔗 LinkedIn</a> · 📍 Mauá, SP — Brasil
 </p>
 
 <p align="center"><sub>construindo com consistência · um commit de cada vez</sub></p>
