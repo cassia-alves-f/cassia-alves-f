@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou a Cássia
 
-Dados sempre fizeram parte do meu trabalho — em quatro anos na área administrativa, fui a pessoa que organizava, cruzava e interpretava informações para tomar decisões. Agora estou tornando isso **intencional**.
+Dados sempre fizeram parte do meu trabalho, em quatro anos na área administrativa, fui a pessoa que organizava, cruzava e interpretava informações para tomar decisões. Agora estou tornando isso **intencional**.
 
 Estudo Análise e Desenvolvimento de Sistemas na Anhembi Morumbi e construo minha trilha em direção à **Engenharia de Dados** — um passo de cada vez.
 
