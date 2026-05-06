@@ -1,16 +1,48 @@
-## Hi there 👋
+## 👋 Olá, eu sou a Cássia
 
-<!--
-**cassia-alves-f/cassia-alves-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dados sempre fizeram parte do meu trabalho — em quatro anos na área administrativa, fui a pessoa que organizava, cruzava e interpretava informações para tomar decisões. Agora estou tornando isso **intencional**.
 
-Here are some ideas to get you started:
+Estudo Análise e Desenvolvimento de Sistemas na Anhembi Morumbi e construo minha trilha em direção à **Engenharia de Dados** — um passo de cada vez.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📍 Trilha de aprendizado
+
+| Ferramenta | Status |
+|---|---|
+| Excel Avançado | ✅ Concluído |
+| Power BI | ✅ Concluído |
+| SQL | 🔵 Em progresso |
+| Python para Dados | ⬜ Em breve |
+| Cloud · ETL · dbt · Airflow | ⬜ No horizonte |
+
+---
+
+### 🛠️ Ferramentas atuais
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cassia-alves-f&show_icons=true&theme=github_dark&hide_border=true)
+
+---
+
+> *"As correntes do hábito são leves demais para serem sentidas, até que se tornem pesadas demais para serem quebradas."*
+> — Warren Buffett
+>
+> **↳ Repita até se tornar.**
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cassia-alves-f">🔗 LinkedIn</www.linkedin.com/in/cássia-alves-f> · 📍 Mauá, SP — Brasil
+</p>
+
+<p align="center"><sub>construindo com consistência · um commit de cada vez</sub></p>
