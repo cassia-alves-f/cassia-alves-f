@@ -1,8 +1,8 @@
 # Cássia Alves F
 
-**Dados & IA** · Estagiária em Dados & IA na Renault Group Brasil 
+**Dados & IA** · Estagiária em Dados & IA na Renault Group Brasil · Mauá, SP
 
-Trabalho com dados desde 2020, em rotinas trabalhistas, fiscais e comerciais. Hoje uso dados e IA para automatizar processos manuais e dar visibilidade para quem toma decisões. Estou estudando Python e SQL na Alura e cursando Análise e Desenvolvimento de Sistemas na Anhembi Morumbi.
+Trabalho com dados desde 2020, em rotinas trabalhistas, fiscais, financeiras e comerciais. Dados sempre fizeram parte do meu trabalho, e agora estou tornando isso intencional. Curso Análise e Desenvolvimento de Sistemas na Anhembi Morumbi e estou me especializando com cursos nas áreas de dados, IA e engenharia de dados.
 
 ## Projetos
 
@@ -17,7 +17,7 @@ Trabalho com dados desde 2020, em rotinas trabalhistas, fiscais e comerciais. Ho
 
 ## Estudando agora
 
-- Python para Dados e SQL, na Alura
+- Trilha de Engenharia de Dados, na Alura
 - Análise e Desenvolvimento de Sistemas, Universidade Anhembi Morumbi, conclusão prevista em 2028
 
 ## Contato
