@@ -1,4 +1,4 @@
-# Cássia Alves Ferreira
+# Cássia Alves F
 
 **Dados & IA** · Estagiária em Dados & IA na Renault Group Brasil · Mauá, SP
 
